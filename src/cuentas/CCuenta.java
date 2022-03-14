@@ -107,7 +107,7 @@ public class CCuenta {
 
     /**
      * Método que devuelve el atributo nombre
-     * @return 
+     * @return String nombre del titular
      */
     public String getNombre() {
         return nombre;
@@ -123,7 +123,7 @@ public class CCuenta {
 
     /**
      * Método que devuelve el atributo tipo interés
-     * @return 
+     * @return double tipo de interés
      */
     public double getTipoInterés() {
         return tipoInterés;
@@ -139,7 +139,7 @@ public class CCuenta {
 
     /**
      * Método que devuelve el atributo cuenta
-     * @return 
+     * @return String cuenta
      */
     public String getCuenta() {
         return cuenta;
@@ -155,7 +155,7 @@ public class CCuenta {
 
     /**
      * Método que devuelve el atributo saldo
-     * @return 
+     * @return double saldo
      */
     public double getSaldo() {
         return saldo;
